@@ -1,4 +1,9 @@
 ## MRC with Long Text
+
+- :+1: : relevant
+- :question: still need to understand
+
+---
 - **(2018)** [A Multi-Stage Memory Augmented Neural Network for Machine Reading Comprehension](https://aclanthology.org/W18-2603/) 
   - use memory controller (BiGRU); complicated... 
 - :+1: **(2018)** [Efficient and Robust Question Answering from Minimal Context over Documents](https://arxiv.org/abs/1805.08092)
