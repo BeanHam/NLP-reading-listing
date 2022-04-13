@@ -7,11 +7,10 @@
 - **(2018)** [Towards Reading Comprehension for Long Documents](https://www.ijcai.org/proceedings/2018/0638.pdf)
   - hierachical-LSTM: token/character-level embedding + query embedding -> attention -> paragraph label
   - complicated
+- **(2019)** [BP-Transformer: Modelling Long-Range Context via Binary Partitioning](https://arxiv.org/abs/1911.04070)
+  - :question: binary partitioning of documents + construct graphs + attention 
 
 
-
-
-- **(2018)** [Efficient and Robust Question Answering from Minimal Context over Documents](https://arxiv.org/abs/1805.08092)
 - **(2018)** [Efficient and Robust Question Answering from Minimal Context over Documents](https://arxiv.org/abs/1805.08092)
 - **(2018)** [Efficient and Robust Question Answering from Minimal Context over Documents](https://arxiv.org/abs/1805.08092)
 - **(2018)** [Efficient and Robust Question Answering from Minimal Context over Documents](https://arxiv.org/abs/1805.08092)
