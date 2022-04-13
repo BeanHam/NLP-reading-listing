@@ -18,7 +18,7 @@
 - :+1: **(2020)** [Question Answering with Long Multiple-Span Answers](https://aclanthology.org/2020.findings-emnlp.342/)
   - MASH-QA 
   - sentence selector: sentence+query attention -> sparse inter-sentence attention 
-- **(2020)** [Recurrent Chunking Mechanisms for Long-Text Machine Reading Comprehension](https://arxiv.org/abs/2005.08056)
+- :+1: **(2020)** [Recurrent Chunking Mechanisms for Long-Text Machine Reading Comprehension](https://arxiv.org/abs/2005.08056)
   - dynamic block chunking with reinforcement learning + binary prediction for blocks + answer extraction
-- **(2021)** [RoR: Read-over-Read for Long Document Machine Reading Comprehension](https://arxiv.org/abs/2109.04780)
+- :+1: **(2021)** [RoR: Read-over-Read for Long Document Machine Reading Comprehension](https://arxiv.org/abs/2109.04780)
   - sliding window to generate blocks -> extract regional answer spans from each block -> compact regional answers as a new passage using MSC (minimum span coverage) -> extract another global answer span using this new passage -> rerank all answers
