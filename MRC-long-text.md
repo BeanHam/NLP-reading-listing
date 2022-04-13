@@ -14,6 +14,8 @@
 - **(2019)** [A Hierarchical Attention Retrieval Model for Healthcare Question Answering](https://dl.acm.org/doi/abs/10.1145/3308558.3313699)
   - IR (not MRC)
   - Idea:word-level, sentence-level, and document attention; (after word-level attention -> aggregate to sentence level + attention -> aggregate to document level attention)
+- :question: :+1: **(2019)** [BP-Transformer: Modelling Long-Range Context via Binary Partitioning](https://arxiv.org/abs/1911.04070)
+  - binary partitioning of documents + construct graphs + attention 
 - **(2019)** [Simple and Effective Curriculum Pointer-Generator Networks for Reading Comprehension over Long Narratives](https://aclanthology.org/P19-1486/)
 - **(2020)** [CogLTX: Applying BERT to Long Texts](https://proceedings.neurips.cc/paper/2020/file/96671501524948bc3937b4b30d0e57b9-Paper.pdf)
   - split long documents into small blocks + retrieve relevant blocks and reform them into a document with L<=512 in order -> then go through BERT 
