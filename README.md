@@ -1,5 +1,5 @@
 # QA-reading-listing
 
 This repo contains read-list for biomedical question answering:
-- [MRC (general)](image-inpainting.md)
-- [MRC With Long Text](transfer-learning.md)
+- [MRC (general)](MRC-general.md)
+- [MRC With Long Text](MRC-long-text.md)
