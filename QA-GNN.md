@@ -11,13 +11,11 @@ Graphs in question-answering domain are usually referred as knowledge graphs (KG
   - binary partitioning of documents + construct graphs + attention 
 - :+1: **(2019)** [Dynamically Fused Graph Network for Multi-hop Reasoning](https://aclanthology.org/P19-1617/)
   - paragraph selectors -> using corenlp toolkit to extract entities + construct entity graph -> query & context embedding -> match embedding with entity graph -> prediction
-- **(2019)** [Multi-hop Reading Comprehension across Multiple Documents by Reasoning over Heterogeneous Graphs](https://aclanthology.org/P19-1260/)
+- :+1: **(2019)** [Multi-hop Reading Comprehension across Multiple Documents by Reasoning over Heterogeneous Graphs](https://aclanthology.org/P19-1260/)
   -  instead of constructing graph with single type of nodes, they used heterogeneous graphs (entity nodes, document nodes, candidate nodes)
-
-
-
-- **(2018)** [A Multi-Stage Memory Augmented Neural Network for Machine Reading Comprehension](https://aclanthology.org/W18-2603/) 
-- **(2018)** [A Multi-Stage Memory Augmented Neural Network for Machine Reading Comprehension](https://aclanthology.org/W18-2603/) 
-- **(2018)** [A Multi-Stage Memory Augmented Neural Network for Machine Reading Comprehension](https://aclanthology.org/W18-2603/) 
-- **(2018)** [A Multi-Stage Memory Augmented Neural Network for Machine Reading Comprehension](https://aclanthology.org/W18-2603/) 
-- **(2018)** [A Multi-Stage Memory Augmented Neural Network for Machine Reading Comprehension](https://aclanthology.org/W18-2603/) 
+- **(2020)** [Coarse and Fine Granularity Graph Reasoning for Interpretable Multi-Hop Question Answering](https://ieeexplore.ieee.org/document/9037288)
+  - coarse level graph: sentence graph; fine graph: entity graph  
+- :+1: **(2020)** [Select, Answer and Explain: Interpretable Multi-Hop Reading Comprehension over Multiple Documents](https://arxiv.org/abs/1911.00484)
+- :+1::tada: **(2020)** [GraphFlow: Exploiting Conversation Flow with Graph Neural Networks for Conversational Machine Comprehension](https://arxiv.org/abs/1908.00059) 
+  - construct the graphs at the word level
+  - unlike previous works, in which the ground-truth graphs are available (KB-graphs) or are manually created (using entities), they used adjacency matrix among words as a semantic graph (**fantastic**), which automates the process.
