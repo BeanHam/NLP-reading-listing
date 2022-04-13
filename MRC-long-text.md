@@ -12,10 +12,11 @@
 - **(2019)** [A Hierarchical Attention Retrieval Model for Healthcare Question Answering](https://dl.acm.org/doi/abs/10.1145/3308558.3313699)
   - IR (not MRC)
   - Idea:word-level, sentence-level, and document attention; (after word-level attention -> aggregate to sentence level + attention -> aggregate to document level attention)
+- **(2020)** [CogLTX: Applying BERT to Long Texts](https://proceedings.neurips.cc/paper/2020/file/96671501524948bc3937b4b30d0e57b9-Paper.pdf)
+  - split long documents into small blocks + retrieve relevant blocks and reform them into a document with L<=512 in order -> then go through BERT 
+- :+1: **(2020)** [Question Answering with Long Multiple-Span Answers](https://aclanthology.org/2020.findings-emnlp.342/)
 
 
-- **(2018)** [Efficient and Robust Question Answering from Minimal Context over Documents](https://arxiv.org/abs/1805.08092)
-- **(2018)** [Efficient and Robust Question Answering from Minimal Context over Documents](https://arxiv.org/abs/1805.08092)
 - **(2018)** [Efficient and Robust Question Answering from Minimal Context over Documents](https://arxiv.org/abs/1805.08092)
 - **(2018)** [Efficient and Robust Question Answering from Minimal Context over Documents](https://arxiv.org/abs/1805.08092)
 - **(2018)** [Efficient and Robust Question Answering from Minimal Context over Documents](https://arxiv.org/abs/1805.08092)
