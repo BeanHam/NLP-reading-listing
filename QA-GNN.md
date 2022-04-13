@@ -11,11 +11,11 @@ Graphs in question-answering domain are usually referred as knowledge graphs (KG
   - binary partitioning of documents + construct graphs + attention 
 - :+1: **(2019)** [Dynamically Fused Graph Network for Multi-hop Reasoning](https://aclanthology.org/P19-1617/)
   - paragraph selectors -> using corenlp toolkit to extract entities + construct entity graph -> query & context embedding -> match embedding with entity graph -> prediction
+- **(2019)** [Multi-hop Reading Comprehension across Multiple Documents by Reasoning over Heterogeneous Graphs](https://aclanthology.org/P19-1260/)
+  -  instead of constructing graph with single type of nodes, they used heterogeneous graphs (entity nodes, document nodes, candidate nodes)
 
 
 
-
-- **(2018)** [A Multi-Stage Memory Augmented Neural Network for Machine Reading Comprehension](https://aclanthology.org/W18-2603/) 
 - **(2018)** [A Multi-Stage Memory Augmented Neural Network for Machine Reading Comprehension](https://aclanthology.org/W18-2603/) 
 - **(2018)** [A Multi-Stage Memory Augmented Neural Network for Machine Reading Comprehension](https://aclanthology.org/W18-2603/) 
 - **(2018)** [A Multi-Stage Memory Augmented Neural Network for Machine Reading Comprehension](https://aclanthology.org/W18-2603/) 
