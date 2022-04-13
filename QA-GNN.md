@@ -2,7 +2,7 @@
 
 :+1: : relevant :question: : still need to understand
 
-Graphs in question-answering domain are usually constructed based on knowledge graphs (KG). In our case, however, we do not work with knowledge-based QA. Instead, we work on MRC-QA, the dataset of which usually does not come with knowledge graphs. Therefore, we focus on the literature that automatically **generates** graphs.
+Graphs in question-answering domain are usually referred as knowledge graphs (KG). In our case, however, we do not work with knowledge-based QA. Instead, we work on MRC-QA, the dataset of which usually does not come with knowledge graphs. Therefore, we focus on the literature that automatically **generates** graphs.
 
 ---
 - **(2018)** [Question Answering by Reasoning Across Documents with Graph Convolutional Networks](https://arxiv.org/abs/1808.09920) 
