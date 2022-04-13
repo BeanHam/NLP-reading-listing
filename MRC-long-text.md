@@ -7,7 +7,7 @@
 - **(2018)** [Towards Reading Comprehension for Long Documents](https://www.ijcai.org/proceedings/2018/0638.pdf)
   - hierachical-LSTM: token/character-level embedding + query embedding -> attention -> paragraph label
   - complicated
-- :question: **(2019)** [BP-Transformer: Modelling Long-Range Context via Binary Partitioning](https://arxiv.org/abs/1911.04070)
+- :question: :+1: **(2019)** [BP-Transformer: Modelling Long-Range Context via Binary Partitioning](https://arxiv.org/abs/1911.04070)
   - binary partitioning of documents + construct graphs + attention 
 - **(2019)** [A Hierarchical Attention Retrieval Model for Healthcare Question Answering](https://dl.acm.org/doi/abs/10.1145/3308558.3313699)
   - IR (not MRC)
