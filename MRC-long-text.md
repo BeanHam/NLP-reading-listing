@@ -9,9 +9,11 @@
   - complicated
 - **(2019)** [BP-Transformer: Modelling Long-Range Context via Binary Partitioning](https://arxiv.org/abs/1911.04070)
   - :question: binary partitioning of documents + construct graphs + attention 
+- **(2019)** [A Hierarchical Attention Retrieval Model for Healthcare Question Answering](https://dl.acm.org/doi/abs/10.1145/3308558.3313699)
+  - IR (not MRC)
+  - Idea:word-level, sentence-level, and document attention; (after word-level attention -> aggregate to sentence level + attention -> aggregate to document level attention)
 
 
-- **(2018)** [Efficient and Robust Question Answering from Minimal Context over Documents](https://arxiv.org/abs/1805.08092)
 - **(2018)** [Efficient and Robust Question Answering from Minimal Context over Documents](https://arxiv.org/abs/1805.08092)
 - **(2018)** [Efficient and Robust Question Answering from Minimal Context over Documents](https://arxiv.org/abs/1805.08092)
 - **(2018)** [Efficient and Robust Question Answering from Minimal Context over Documents](https://arxiv.org/abs/1805.08092)
